@@ -5,7 +5,7 @@ Este conteúdo é uma aula gravada no dia 27 de janeiro de 2025, onde foi aborda
 ## Algoritmo
 
 ~~~~
-Algoritmo é uma sequência de passos bem definidas. O algoritmo não permite ambiguidade, ele é claro no que se propõe a fazer.
+Algoritmo é uma sequência de passos bem-definidos. O algoritmo não permite ambiguidade, ele é claro no que se propõe a fazer.
 ~~~~
 
 ## Programa
